@@ -1,5 +1,5 @@
 # PySpark-Tutorials
-This contains notebooks for Pyspark Tutorials
+This repository contains notebooks of Pyspark Tutorials, taught by Krish Naik.
 
 ### Pyspark Tutorial-1 contains
 * PySpark Dataframe creation
