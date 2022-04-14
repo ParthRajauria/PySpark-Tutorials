@@ -9,3 +9,8 @@ This repository contains notebooks of Pyspark Tutorials, taught by Krish Naik.
 * Adding Columns
 * Dropping Columns
 * Renaming Columns
+
+### Pyspark Tutorial-2 contains
+* Handling Missing Values
+* Filter Operations
+* GroupBy and Aggregate functions.
