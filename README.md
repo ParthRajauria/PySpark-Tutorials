@@ -14,3 +14,6 @@ This repository contains notebooks of Pyspark Tutorials, taught by Krish Naik.
 * Handling Missing Values
 * Filter Operations
 * GroupBy and Aggregate functions.
+
+### ML with PySpark Example contains
+* A very short code on how to train ML models using PySpark.
